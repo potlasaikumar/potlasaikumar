@@ -1,0 +1,13 @@
+C:\SSProject\WpfUserControls\obj\Debug\WpfUserControls.csproj.AssemblyReference.cache
+C:\SSProject\WpfUserControls\obj\Debug\WpfUserControls_MarkupCompile.cache
+C:\SSProject\WpfUserControls\bin\Debug\WpfUserControls.dll
+C:\SSProject\WpfUserControls\bin\Debug\WpfUserControls.pdb
+C:\SSProject\WpfUserControls\obj\Debug\UcWpf.g.cs
+C:\SSProject\WpfUserControls\obj\Debug\WpfUserControls_MarkupCompile.lref
+C:\SSProject\WpfUserControls\obj\Debug\UcWpf.baml
+C:\SSProject\WpfUserControls\obj\Debug\WpfUserControls.g.resources
+C:\SSProject\WpfUserControls\obj\Debug\WpfUserControls.Properties.Resources.resources
+C:\SSProject\WpfUserControls\obj\Debug\WpfUserControls.csproj.GenerateResource.cache
+C:\SSProject\WpfUserControls\obj\Debug\WpfUserControls.csproj.CoreCompileInputs.cache
+C:\SSProject\WpfUserControls\obj\Debug\WpfUserControls.dll
+C:\SSProject\WpfUserControls\obj\Debug\WpfUserControls.pdb
